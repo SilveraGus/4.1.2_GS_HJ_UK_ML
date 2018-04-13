@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: 4.1.2 kool Concentration Game
+PURPOSE OF PROJECT: to complete the 4.1.2 assignment, 
+VERSION or DATE: V1.0/ 4/12/2018
+HOW TO START THIS PROJECT: open the blueJ project, right click the concentrationRunner box, and click "void main", then ok. 
+AUTHORS: Harsha J, Gustavo S, Uday K, Megan L 
+USER INSTRUCTIONS: everything is in the game itself, typically just press enter to start; then use the number keys to select which piece in the board you wish to view. 
